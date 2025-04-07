@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Mahla9
+ Hi, I’m @Mahla9
+-    i'm Front-end Development (tailwind css, react.js)
+- 🌱 I’m working on a react.js project. and share it with you ,soon
 - 👀 I’m interested in technology, design web and also security network
-- 🌱 I’m currently learning tailwind & js
-- ⚡ Fun fact: A junior writes a code that hundreds of seniors cannot understand.
-- 😄 love to travel, height, jump, drive and motorcycle
+- 😄 love to travel, height, jump, drive 
